@@ -1,2 +1,2 @@
 # portfolio
-Portfolio of Projects for Linus Ossai-Chidi
+Portfolio of data projects by Linus Ossai-Chidi
